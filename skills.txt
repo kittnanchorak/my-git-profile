@@ -1,0 +1,8 @@
+# ทักษะด้านเทคโนโลยี (เติม/ลบได้ตามจริง)
+HTML
+CSS
+JavaScript
+Python
+SQL
+Git
+Figma
